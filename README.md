@@ -298,10 +298,10 @@ cargo build --release
 ## 📌 Quick Links
 
 - [GitHub Organization](https://github.com/CRISP-lang-foundation)
-- [Main Repository](https://github.com/CRISP-lang-foundation/crisp)
-- [Documentation](https://crisp-lang.org)
-- [Issue Tracker](https://github.com/CRISP-lang-foundation/crisp/issues)
-- [Discussions](https://github.com/CRISP-lang-foundation/crisp/discussions)
+- [Main Repository](https://github.com/CRISP-lang-foundation/CRISP-lang)
+- [Documentation] - 🛠️WIP🧰
+- [Issue Tracker](https://github.com/CRISP-lang-foundation/CRISP-lang/issues)
+- [Discussions](https://github.com/CRISP-lang-foundation/CRISP-lang/discussions)
 
 ---
 

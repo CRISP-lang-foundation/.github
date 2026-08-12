@@ -284,6 +284,7 @@ cargo build --release
 ## 👥 Team
 
 - **Peter Leukanič** — Founder & Lead Developer
+- **BatScript** - Graphics
 
 ---
 

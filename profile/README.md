@@ -29,7 +29,7 @@ The CRISP Language Foundation exists to:
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[CRISP](https://github.com/CRISP-lang-foundation/CRISP-lang)** | The main interpreter and language implementation | 🚀 Active |
-| **[crisp-mode](https://github.com/CRISP-lang-foundation/crisp-mode)** | Emacs major mode for CRISP | ✅ Stable |
+| **[CRISP-mode](https://github.com/CRISP-lang-foundation/CRISP-mode-el)** | Emacs major mode for CRISP | ✅ Stable |
 
 ### Upcoming Projects
 

@@ -204,7 +204,7 @@ We welcome contributions! Here's how you can help:
 - **Write examples** — Share your CRISP code snippets
 - **Spread the word** — Star the repo and share with others
 
-Details can be found here in ([CONTRIBUTING](https://github.com/CRISP-lang-foundation/.github/blob/main/CONTRIBUTING.md))
+Details can be found here in [CONTRIBUTING](https://github.com/CRISP-lang-foundation/.github/blob/main/CONTRIBUTING.md)
 
 ---
 
@@ -239,7 +239,7 @@ You may choose either license at your option.
 
 - **GitHub Discussions** — [Join the conversation](https://github.com/CRISP-lang-foundation/CRISP-lang/discussions)
 - **Issue Tracker** — [Report bugs](https://github.com/CRISP-lang-foundation/CRISP-lang/issues)
-- **Documentation** — [ 🧰 WIP 🛠️]
+- **Documentation** — [Ebook](https://github.com/CRISP-lang-foundation/CRISP-book/blob/main/crisp_book.pdf)
 
 ---
 
@@ -286,7 +286,7 @@ cargo build --release
 ## 👥 Team
 
 - **Peter Leukanič** — Founder & Lead Developer
-- **BatScript** - Graphics , check out his amazing work as developer too: ([BatScript GitHub](https://github.com/Bat-Script))
+- **BatScript** - Graphics , check out his amazing work as developer too: [BatScript GitHub](https://github.com/Bat-Script)
 
 ---
 
@@ -302,7 +302,7 @@ cargo build --release
 
 - [GitHub Organization](https://github.com/CRISP-lang-foundation)
 - [Main Repository](https://github.com/CRISP-lang-foundation/CRISP-lang)
-- [Documentation] - 🛠️WIP🧰
+- [Documentation](https://github.com/CRISP-lang-foundation/CRISP-book/blob/main/crisp_book.pdf)
 - [Issue Tracker](https://github.com/CRISP-lang-foundation/CRISP-lang/issues)
 - [Discussions](https://github.com/CRISP-lang-foundation/CRISP-lang/discussions)
 

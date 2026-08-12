@@ -277,8 +277,8 @@ cargo build --release
 
 | Version | Status | Notes |
 |---------|--------|-------|
-| v0.1.7 | ✅ Stable | Bug fixes, tests, minor changes |
-| v0.1.8 | 🚀 In Progress | Feature enhancements |
+| v0.1.5 | ✅ Stable | Bug fixes, tests, minor changes |
+| v0.1.7 | 🚀 In Progress | Feature enhancements |
 | v1.0.0 | 📅 Planned | First stable release |
 
 ---

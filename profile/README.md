@@ -316,7 +316,7 @@ CRISP brings together the best of both worlds:
 - **Safety** — Memory safety from Rust
 - **Performance** — Native speed when you need it
 - **Flexibility** — From quick scripts to large applications
-- **Ecosystem** — Access to Rust's crates and Perl's CPAN
+- **Ecosystem** — Access to Rust's crates
 
 ---
 

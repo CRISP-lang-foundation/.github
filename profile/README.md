@@ -8,7 +8,7 @@
 Welcome to the **CRISP Language Foundation** — the home of the **CRISP** programming language and its ecosystem.
 
 CRISP (**C**reative **R**ust **I**mplemented **S**cripting **P**aradigm) is a modern, expressive scripting language inspired by Perl and built on Rust's safety and performance.
-With small touch of C and Python. It tries to bring together best from all four worlds.
+With small touch of C and Python, it aims to bring together the best of all four worlds.
 
 ---
 

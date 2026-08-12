@@ -204,6 +204,8 @@ We welcome contributions! Here's how you can help:
 - **Write examples** — Share your CRISP code snippets
 - **Spread the word** — Star the repo and share with others
 
+Details can be found here in ([CONTRIBUTING](https://github.com/CRISP-lang-foundation/.github/blob/main/CONTRIBUTING.md))
+
 ---
 
 ## 🧪 Testing
@@ -224,7 +226,7 @@ cargo test --test integration
 
 ## 📄 License
 
-CRISP is dual-licensed under:
+CRISP language is dual-licensed under:
 
 - **Apache License, Version 2.0** ([LICENSE-APACHE](LICENSE-APACHE))
 - **MIT License** ([LICENSE-MIT](LICENSE-MIT))
@@ -284,7 +286,7 @@ cargo build --release
 ## 👥 Team
 
 - **Peter Leukanič** — Founder & Lead Developer
-- **BatScript** - Graphics
+- **BatScript** - Graphics , check out his amazing work as developer too: ([BatScript GitHub](https://github.com/Bat-Script))
 
 ---
 
